@@ -5,7 +5,9 @@ Thumbs.db
 /output
 /temp
 /template
+/jre
 /node_modules
+validator_cli.jar
 /.vscode
 /.idea
 /.history
